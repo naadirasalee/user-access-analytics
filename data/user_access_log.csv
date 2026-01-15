@@ -1,0 +1,11 @@
+user_id,full_name,role,department,is_privileged,last_login_date,failed_login_attempts,login_time_hour,location
+U001,Samir Patel,System Admin,IT,1,2025-02-10,7,23,Head Office
+U002,Ayesha Khan,Business Analyst,Finance,0,2025-11-25,1,10,Head Office
+U003,John Smith,Developer,IT,0,2025-08-15,4,19,Remote
+U004,Linda Mokoena,DBA,IT,1,2025-06-01,2,2,Data Centre
+U005,Michael Green,AP Clerk,Finance,0,2025-03-30,6,21,Branch A
+U006,Fatima Isa,Security Admin,IT,1,2024-12-20,0,9,Head Office
+U007,Chris Brown,Sales Rep,Sales,0,2025-11-28,3,11,Branch B
+U008,Nomsa Dlamini,Vendor Manager,Procurement,0,2025-04-05,8,16,Head Office
+U009,Daniel James,IT Support,IT,0,2025-10-10,5,6,Remote
+U010,Thabo Nkosi,Finance Manager,Finance,0,2024-11-15,0,15,Head Office
